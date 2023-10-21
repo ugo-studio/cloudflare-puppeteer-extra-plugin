@@ -8,8 +8,8 @@
   "files": [
     "dist"
   ],
-  "repository": "ugo-studio/cloudflare-puppeteer-extra",
-  "homepage": "https://github.com/ugo-studio/cloudflare-puppeteer-extra",
+  "repository": "ugo-studio/cloudflare-puppeteer-extra-plugin",
+  "homepage": "https://github.com/ugo-studio/cloudflare-puppeteer-extra-plugin",
   "author": "ugo-studio",
   "license": "MIT",
   "scripts": {
@@ -78,6 +78,5 @@
     "playwright-extra": {
       "optional": true
     }
-  },
-  "gitHead": "babb041828cab50c525e0b9aab02d58f73416ef3"
+  }
 }
